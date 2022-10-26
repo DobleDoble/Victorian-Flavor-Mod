@@ -1,0 +1,19 @@
+# Finnic Empire
+FIE = {
+	states = {
+        STATE_ALAND
+		STATE_SOUTHERN_FINLAND
+        STATE_OSTROBOTHNIA
+        STATE_WEST_KARELIA
+        STATE_EAST_KARELIA
+        STATE_INGRIA
+        STATE_ESTONIA
+        STATE_NORRLAND
+        STATE_NORTHERN_NORWAY
+        STATE_ARKHANGELSK     
+	}
+
+	required_states_fraction = 0.7
+	
+	ai_will_do = { always = yes }
+}

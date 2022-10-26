@@ -1,0 +1,17 @@
+# TODO
+
+# Remove ugrian pops
+# Create new pops for the Finno-Ugric divisions after they are implemented
+# Add some Sámi into Arkhangelsk (Kola peninsula)
+
+# Target states:
+
+# STATE_INGRIA
+# STATE_SMOLENSK
+# STATE_EAST_KARELIA
+# STATE_ARKHANGELSK
+# STATE_TVER
+# STATE_NOVGOROD
+# STATE_GALICH
+# STATE_PERM
+# STATE_LATVIA

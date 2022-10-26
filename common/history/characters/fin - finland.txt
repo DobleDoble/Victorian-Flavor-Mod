@@ -1,0 +1,15 @@
+CHARACTERS = {
+	c:FIN = {
+		create_character = {
+			# Character name
+			first_name = firstname
+			last_name = lastname
+			birth_date = 1800.1.1
+			interest_group = ig_intelligentsia
+			ideology = ideology_moderate
+			traits = {
+				meticulous
+			}
+		}
+	}
+}

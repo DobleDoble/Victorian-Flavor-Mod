@@ -1,0 +1,32 @@
+﻿COUNTRIES = {
+	c:FIN = {		
+		effect_starting_technology_tier_2_tech = yes			# Russia has tier 3?		
+		add_technology_researched = dialectics					# SWE has dialectics, but Finland does not
+		
+		effect_starting_politics_conservative = yes				# SWE has this, RUS doesn't
+		
+		set_tariffs_export_priority = g:wood					# Tar would be the number 1 export article but it's not in the game
+		
+		activate_law = law_type:law_monarchy					# Accurate
+		activate_law = law_type:law_oligarchy					# Accurate
+		activate_law = law_type:law_per_capita_based_taxation	# In the 1830, land tax was actually the most important form of taxation
+		activate_law = law_type:law_national_supremacy			# Accurate
+		activate_law = law_type:law_religious_schools			# Accurate
+		activate_law = law_type:law_mercantilism				# Somewhat accurate
+		activate_law = law_type:law_interventionism				# Somewhat accurate
+		activate_law = law_type:law_censorship 					# Censorship was relatively light in the 1830s, but the threat was there
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+
+		ig:ig_devout = { 
+			set_interest_group_name = ig_evangelical_church 
+		}
+
+		ig:ig_landowners = {
+			add_ruling_interest_group = yes
+		}
+	}
+}

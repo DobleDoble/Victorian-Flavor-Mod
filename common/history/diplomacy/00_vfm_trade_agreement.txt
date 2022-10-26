@@ -1,0 +1,30 @@
+﻿DIPLOMACY = {
+	c:SWE = {
+		create_diplomatic_pact = {
+			country = c:PRU
+			type = trade_agreement
+		}
+	}	
+	c:TUS = {
+		create_diplomatic_pact = {
+			country = c:SIC
+			type = trade_agreement
+		}
+	}	
+	c:GBR = {
+		create_diplomatic_pact = {
+			country = c:POR
+			type = trade_agreement
+		}		
+		create_diplomatic_pact = {
+			country = c:BEL
+			type = trade_agreement
+		}		
+	}	
+	c:FIN = { # Historically, Russia allowed Finland to trade (mostly) freely with Sweden.
+		create_diplomatic_pact = {
+			country = c:SWE
+			type = trade_agreement
+		}
+	}
+}

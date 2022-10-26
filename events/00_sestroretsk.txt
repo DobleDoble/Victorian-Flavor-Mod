@@ -1,0 +1,31 @@
+# In 1842, Russia annexed the Kankaankylä quarter of Siestarjoki (Sestroretsk) city.
+# In 1864, Russia annexed a 14 km2 are surrounding the Sestroretsk munitions/weapons/tools factory.
+# In 1864, Alexander II promised to compensate Finland in the form of Petsamo. However, historically this only happened in 1920.
+
+# 1) Russia gets an event with an option to annex the area or not
+# 2) Russia gets another event with an option to compensate Finland or not
+
+estroretsk.1 = {
+	type = country_event
+	placement = ROOT
+
+	title = sestroretsk.1.t
+	desc = sestroretsk.1.d
+	flavor = sestroretsk.1.f
+
+	event_image = {
+		video = "gfx/event_pictures/unspecific_signed_contract.bk2"
+	}
+
+	on_created_soundeffect = "event:/SFX/UI/Alerts/event_appear"
+	on_opened_soundeffect = "event:/SFX/Events/unspecific/signed_contract"
+
+	icon = "gfx/interface/icons/event_icons/event_portrait.dds"
+
+	duration = 3
+	
+	trigger = {
+	}
+	
+	
+}
