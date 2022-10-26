@@ -1,0 +1,48 @@
+FIN = {
+	states = {
+		STATE_SOUTHERN_FINLAND
+		STATE_OSTROBOTHNIA
+		STATE_WEST_KARELIA
+	}
+
+	required_num_states = 2
+
+	ai_will_do = { always = no }
+}
+
+SMI = {
+	STATE_NORTHERN_NORWAY
+	STATE_NORRLAND
+	STATE_OSTROBOTHNIA
+	STATE_ARKHANGELSK
+	
+	required_num_states = 1
+
+	ai_will_do = { always = no }
+}
+
+# TODO
+
+# Åland
+# ALA = {states={STATE_ALAND}}
+
+# In Vanilla, PRM (Perm) is the sole tag for "Ugrian culture". This needs to change for cultures and countries. Russian census from 1897 offers these (partly obsolete) divisions:
+
+# Mordvins		1.02 M people
+# Udmurts		0.42 M
+# Mari			0.37 M
+# Karelians 	0.21 M
+# Komi			0.15 M
+# Permian		0.10 M
+# Khanty-Mansi	20 k
+# Samoyedic		15 k
+# Sámi			 2 k
+
+# Linguistically speaking, these are grouped as:
+
+# Baltic-Finnic	(Finnish, Karelian, Estonian)
+# Finno-Permic	(Komi-Zyrian + Komi-Permyak + Udmurt)
+# Finno-Volgaic	(Mari + Mordvinic)
+# Sami
+# Samoyedic		(Nenets, Enets, Nganasan, Selkup)
+# Ugric			(Khanty + Mansi + Hungarian!!)
