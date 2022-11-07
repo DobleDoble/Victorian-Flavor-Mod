@@ -8,8 +8,7 @@ estonian={
 		Aadu
 		Aage
 		Aago
-		Aap
-‎		Aapo
+		Aapo
 		Aare
 		Aarend
 		Aarne
@@ -50,11 +49,11 @@ estonian={
 		Ainor
 		Airo
 		Airon
-‎		Aivar
+		Aivar
 		Aiver
 		Aivo
 		Aivu
-‎		Aksel
+		Aksel
 		Alar
 		Alari
 		Albert
@@ -97,7 +96,7 @@ estonian={
 		Anselme
 		Antero
 		Anti
-‎		Anto
+		Anto
 		Anton
 		Antoni
 		Antonin
@@ -989,7 +988,7 @@ estonian={
 		Rainis
 		Raino
 		Rait
-‎		Raivo
+		Raivo
 		Ralf
 		Ralph
 		Ramon
@@ -5019,30 +5018,289 @@ sami={
 	# definitely don't add scandinavian_culture_group because they were discriminated in all of the Nordic countries 	-Engram
 	# furthermore, religion ought to be (Sámi) shamanism to make the life of non-converters even more miserable 		-Engram
 	male_common_first_names={
-		Aikia
-		Asllak
-		Biejas
+		Ábel
+		Áigin
+		Ailo
+		Áilu
+		Áksel
+		Áles
+		Állan
+		Ándá
+		Ándaras
+		Ándde
+		Ánde
+		Ánderijá
+		Ánot
+		Anta
+		Ánte
+		Ante
+		Anti
+		Ántte
+		Ára
+		Arijoutsi
+		Áron
+		Aslak
+		Áslat
+		Ásllak
+		Ásllat
+		Ávvu
+		Bávlos
+		Bede
+		Beđar
+		Benjáme
+		Benne
+		Biede
+		Biehtár
+		Biera
+		Birger
+		Birki
+		Dánel
+		Dávvet
+		Duomis
 		Dure
+		Edo
+		Egel
+		Eidno
+		Eiven
+		Elejas
+		Eles
+		Elias
+		Eljes
+		Emel
+		Eret
 		Erke
-		Hanno
-		Iskko
-		Joha
-		Laras
-		Markkos
+		Feles
+		Gábe
+		Gusto
+		Gustu
+		Hánno
+		Hánsa
+		Heaika
+		Heandarat
+		Herko
+		Hilje
+		Holger
+		Hugo
+		Iisku
+		Indu
+		Isku
+		Issát
+		Ivvar
+		Ivvár
+		Jáhko
+		Járre
+		Jåvva
+		Joel
+		Johá
+		Johán
+		Johánas
+		Johanas
+		Joná
+		Jonás
+		Jonne
+		Jorge
+		Jorgen
+		Jovna
+		Jovnna
+		Jovsset
+		Juffe
+		Juhán
+		Juhan
+		Juho
+		Junne
+		Jussá
+		Jusse
+		Juvvá
+		Laara
+		Larsa
+		Lásse
+		Lávra
+		Ledjo
+		Lejo
+		Lemek
+		Lemet
+		Lenne
+		Mahtte
+		Máhtte
+		Matti
+		Meehte
+		Mellet
+		Migil
+		Migos
+		Mihka
+		Mihkkal
+		Mihkkel
+		Mihkku
+		Mikkal
 		Mikko
+		Mikku
+		Milot
+		Morten
+		Mures
+		Næjla
+		Nigo
+		Niikka
+		Niikko
+		Niilá
+		Niila
+		Niilas
 		Niillas
+		Nila
+		Nilá
+		Nilas
+		Nillá
+		Nilla
+		Nilsa
+		Ninna
+		Oge
+		Olen
+		Olle
+		Oskár
 		Osku
-		Quiwe
-		Uhkku
+		Otto
+		Oula
+		Ovlá
+		Ovla
+		Ovlla
+		Ovllá
+		Pavva
+		Peivas
+		Piera
+		Piere
+		Rede
+		Riigu
+		Ruben
+		Saba
+		Sabba
+		Sabbe
+		Sálmmo
+		Sámmol
+		Selen
+		Sierge
+		Silvu
+		Simmá
+		Simmon
+		Tobejas
+		Tuomma
+		Vállju
+		Válter
+		Vide
+		Viktor
+		Ville
+		Vulle
 	}
 	female_common_first_names = {
-		Aili
-		Margareta
+		Ádá
+		Aile
+		Áile
+		Áilu
+		Aire
+		Álehttá
+		Álehtta
+		Álgen
+		Aliissá
+		Ánet
+		Ánná
+		Ánne
+		Ásta
+		Bente
+		Biellá
+		Bigga
+		Biggá
+		Bigge
+		Bikká
+		Biret
+		Birje
+		Buohttá
+		Duiri
+		Edel
+		Eivor
+		Elen
+		Eliissá
+		Ellá
+		Elle
+		Ello
+		Elsá
+		Elve
+		Ester
+		Evá
+		Gáhteriinná
+		Gáren
+		Gunvor
+		Heide
+		Heidi
+		Helená
+		Helve
+		Hildá
+		Hillá
+		Ibbá
+		Iiddá
+		Iinná
+		Iŋger
+		Irene
+		Kaija
+		Káre
+		Káren
+		Kariinná
+		Karoliinná
+		Kirste
+		Láilá
+		Liisá
+		Liljá
+		Linne
+		Livli
+		Maarja
+		Magga
+		Mággá
+		Maggi
+		Máijá
+		Máire
+		Majus
+		Máren
+		Máret
+		Márge
+		Márgget
+		Márjá
 		Marja
-		Nasti
+		Mártá
+		Meerke
+		Meret
+		Miijá
+		Mimmi
+		Minná
+		Náddjá
+		Násti
+		Norá
+		Oile
+		Piija
+		Rana
+		Rávdná
+		Ravna
+		Risten
+		Ristin
+		Sahka
+		Sakka
+		Sárá
+		Sáráhkká
+		Seará
+		Seita
+		Siinná
+		Sire
+		Siru
+		Sive
+		Sofe
+		Solla
+		Sunná
+		Suonjar
+		Susánná
+		Sussu
+		Teresá
+		Unni
 	}	
+	# In OTL, Sámi nobility did not exist. Graan is a Swedish noble house or Sámi origin. The others are from PDX.
 	noble_last_names = {
 		Aeijih
+		Graan
 		Keskitalo
 		Magga
 		Nuorane
@@ -5050,13 +5308,48 @@ sami={
 		Ukonsaari
 	}
 	common_last_names={
+		Áikio
+		Aikio
+		Balto
+		Boidni
+		Boine
+		Bred
+		Bure
+		Báltu
 		Dunfjeld
+		Flink
+		Frisk
+		Gaski
+		Gáski
 		Haetta
+		Hassi
+		Jillker
+		Joks
+		Kant
 		Kappfjell
+		Kranck
+		Kroik
+		Krysi
 		Kvitfjell
 		Magga
+		Medwik
+		Mienna
+		Mienná
+		Niska
+		Sara
+		Schal
+		Sohkki
+		Sokki
+		Sola
 		Somby
+		Stamp
+		Stutt
+		Sárá
 		Turi
+		Uhcci
+		Utsi
+		Vinkel
+		Wärnach
 	}
 	graphics = european
 	ethnicities = {
@@ -5066,7 +5359,7 @@ sami={
 
 # "Ugrian culture" is nonsense and needs to be removed from the game and replaced with sensible subgroups. Russian census from 1897 offers these (partly obsolete) divisions:
 
-# Mordvins		1.02 M people
+# Mordvins		1.02 M	(Erzyans and Mokshans, nowadays split 66 % and 33 % respectively)
 # Udmurts		0.42 M
 # Mari			0.37 M
 # Karelians 	0.21 M
@@ -5078,12 +5371,132 @@ sami={
 
 # Linguistically speaking, these are grouped as:
 
-# Baltic-Finnic	(Finnish, Karelian, Estonian)
+# Baltic-Finnic	(Finnish, Karelian, Estonian etc.)
 # Finno-Permic	(Komi-Zyrian + Komi-Permyak + Udmurt)
 # Finno-Volgaic	(Mari + Mordvinic)
 # Sami
 # Samoyedic		(Nenets, Enets, Nganasan, Selkup)
 # Ugric			(Khanty + Mansi + Hungarian!!)
+
+erzyan={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+mokshan={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+udmurt={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+mari={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+# includes Karelian, Ludic and Veps
+karelian={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+komi={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
+
+permian={
+	color= hsv{ 0.40 0.36 0.70 }
+	religion = orthodox
+	traits = { finnic european_heritage }
+	male_common_first_names={
+		Malename
+	}
+	female_common_first_names={
+		Femalename
+	}
+	noble_last_names={
+		von_Lastname
+	}
+	common_last_names={
+		Lastname
+	}
 
 ugrian={
 	color= hsv{ 0.50 0.32 0.62 }
